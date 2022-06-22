@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let salam = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
